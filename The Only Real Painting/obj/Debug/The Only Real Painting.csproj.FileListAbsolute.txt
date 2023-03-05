@@ -1,0 +1,9 @@
+C:\Users\Batuh\OneDrive\Belgeler\Visual Studio 2015\Projects\The Only Real Painting\The Only Real Painting\bin\Debug\The Only Real Painting.exe.config
+C:\Users\Batuh\OneDrive\Belgeler\Visual Studio 2015\Projects\The Only Real Painting\The Only Real Painting\bin\Debug\The Only Real Painting.exe
+C:\Users\Batuh\OneDrive\Belgeler\Visual Studio 2015\Projects\The Only Real Painting\The Only Real Painting\bin\Debug\The Only Real Painting.pdb
+C:\Users\Batuh\OneDrive\Belgeler\Visual Studio 2015\Projects\The Only Real Painting\The Only Real Painting\obj\Debug\The Only Real Painting.csprojResolveAssemblyReference.cache
+C:\Users\Batuh\OneDrive\Belgeler\Visual Studio 2015\Projects\The Only Real Painting\The Only Real Painting\obj\Debug\The_Only_Real_Painting.Form1.resources
+C:\Users\Batuh\OneDrive\Belgeler\Visual Studio 2015\Projects\The Only Real Painting\The Only Real Painting\obj\Debug\The_Only_Real_Painting.Properties.Resources.resources
+C:\Users\Batuh\OneDrive\Belgeler\Visual Studio 2015\Projects\The Only Real Painting\The Only Real Painting\obj\Debug\The Only Real Painting.csproj.GenerateResource.Cache
+C:\Users\Batuh\OneDrive\Belgeler\Visual Studio 2015\Projects\The Only Real Painting\The Only Real Painting\obj\Debug\The Only Real Painting.exe
+C:\Users\Batuh\OneDrive\Belgeler\Visual Studio 2015\Projects\The Only Real Painting\The Only Real Painting\obj\Debug\The Only Real Painting.pdb
